@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.g4g">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoappsquare"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/g4gapplogocircle"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TampilanMousepad10"></activity>
+        <activity android:name=".TampilanMousepad9" />
+        <activity android:name=".TampilanMousepad8" />
+        <activity android:name=".TampilanMousepad7" />
+        <activity android:name=".TampilanMousepad6" />
+        <activity android:name=".TampilanMousepad5" />
+        <activity android:name=".TampilanMousepad4" />
+        <activity android:name=".TampilanMousepad3" />
+        <activity android:name=".TampilanMousepad2" />
+        <activity android:name=".TampilanMousepad1" />
+        <activity android:name=".TampilanMouse10" />
+        <activity android:name=".TampilanMouse9" />
+        <activity android:name=".TampilanMouse8" />
+        <activity android:name=".TampilanMouse7" />
+        <activity android:name=".TampilanMouse6" />
+        <activity android:name=".TampilanMouse5" />
+        <activity android:name=".TampilanMouse4" />
+        <activity android:name=".TampilanMouse3" />
+        <activity android:name=".TampilanMouse2" />
+        <activity android:name=".TampilanMouse1" />
+        <activity android:name=".TampilanHeadset10" />
+        <activity android:name=".TampilanHeadset9" />
+        <activity android:name=".TampilanHeadset8" />
+        <activity android:name=".TampilanHeadset7" />
+        <activity android:name=".TampilanHeadset6" />
+        <activity android:name=".TampilanHeadset5" />
+        <activity android:name=".TampilanHeadset4" />
+        <activity android:name=".TampilanHeadset3" />
+        <activity android:name=".TampilanHeadset2" />
+        <activity android:name=".TampilanHeadset1" />
+        <activity android:name=".TampilanKeyboard3" />
+        <activity android:name=".TampilanKeyboard6" />
+        <activity android:name=".TampilanKeyboard10" />
+        <activity android:name=".TampilanKeyboard7" />
+        <activity android:name=".TampilanKeyboard9" />
+        <activity android:name=".TampilanKeyboard8" />
+        <activity android:name=".TampilanKeyboard5" />
+        <activity android:name=".TampilanKeyboard4" />
+        <activity android:name=".TampilanKeyboard2" />
+        <activity android:name=".TampilanKeyboard" />
+        <activity android:name=".Mousepad_Activity" />
+        <activity android:name=".Headset_Activity" />
+        <activity android:name=".Mouse_Activity" />
+        <activity android:name=".Keyboad_Activity" />
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

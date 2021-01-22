@@ -1,0 +1,920 @@
+<resources>
+    <string name="app_name">G4G</string>
+    <string name="keyboard">KEYBOARD</string>
+    <string name="mouse">MOUSE</string>
+    <string name="mousepad">MOUSEPAD</string>
+    <string name="headset">HEADSET</string>
+    <string name="judul">JUDUL</string>
+    <string name="deskripsi">DESKRIPSI</string>
+    <string name="nama_keyboard1">RAZER BLACKWIDOW ULTIMATE - GREEN SWITCH [KEYBOARD]</string>
+    <string name="nama_keyboard2">RAZER BLACKWIDOW - GREEN SWITCH [KEYBOARD]</string>
+    <string name="nama_keyboard3"> FANTECH MK884 OPTILUXS OPTICAL MECHANICAL GAMING KEYBOARD</string>
+    <string name="nama_keyboard4">Fantech MK872 RGB Mechanical Optical Switch Macro Keyboard Gaming</string>
+    <string name="nama_keyboard5">Steelseries Apex 7 TKL Keyboard Gaming RGB - Blue Switch</string>
+    <string name="nama_keyboard6">Logitech G213 Prodigy RGB Gaming Keyboard</string>
+    <string name="nama_keyboard7">Logitech G413 Mechanical Backlit Gaming Keyboard - Silver</string>
+    <string name="nama_keyboard8">Keyboard Gaming Mekanikal Rexus MX3.2</string>
+    <string name="nama_keyboard9">Rexus Keyboard Wireless Gaming Mechanical Daxa M71 PRO</string>
+    <string name="nama_keyboard10">Rexus Keyboard Gaming Mechanical Legionare MX10 RGB</string>
+    <string name="nama_headset1">RAZER KRAKEN X USB [HEADSET]</string>
+    <string name="nama_headset2">Razer Kraken BT Kitty Edition – Quartz [HEADSET]</string>
+    <string name="nama_headset3">Fantech OCTANE 7.1 HG23 RGB Headset Gaming</string>
+    <string name="nama_headset4">Fantech VIBE MH85 Headset Gaming Mobile RGB</string>
+    <string name="nama_headset5">Steelseries Arctis 5 White</string>
+    <string name="nama_headset6">Rexus Headset Gaming Vonix F30 </string>
+    <string name="nama_headset7">Headset Gaming Rexus Thundervox HX20</string>
+    <string name="nama_headset8">Logitech G733 LIGHTSPEED Wireless RGB 7.1 Surround Gaming Headset</string>
+    <string name="nama_headset9">Logitech G331 Stereo Gaming Headset</string>
+    <string name="nama_headset10">Logitech G433 7.1 Surround Gaming Headset</string>
+    <string name="nama_mouse1">FANTECH RAIGOR II WG10 [MOUSE]</string>
+    <string name="nama_mouse2">RAZER BASILISK [MOUSE]</string>
+    <string name="nama_mouse3">RAZER BASILISK ULTIMATE [MOUSE]</string>
+    <string name="nama_mouse4">Fantech CRYPTO VX7 </string>
+    <string name="nama_mouse5">Steelseries Rival 3 Wired Gaming Mouse</string>
+    <string name="nama_mouse6">Cool Fitured Gaming Mouse with Reasonable Price</string>
+    <string name="nama_mouse7">Rexus PRO Mouse Gaming Daxa Air II</string>
+    <string name="nama_mouse8">Logitech G403 HERO Wired Gaming Mouse</string>
+    <string name="nama_mouse9">Logitech G102 Lightsync Gaming Mouse</string>
+    <string name="nama_mouse10">Logitech G300S Gaming Mouse</string>
+    <string name="nama_mousepad1">Razer Goliathus Chroma [MOUSEPAD]</string>
+    <string name="nama_mousepad2">RAZER FIREFLY V2 - GAMING MOUSEPAD</string>
+    <string name="nama_mousepad3">FANTECH MP64 XL BASIC</string>
+    <string name="nama_mousepad4">MOUSEPAD SVEN FANTECH MP25</string>
+    <string name="nama_mousepad5">Steelseries QcK Black</string>
+    <string name="nama_mousepad6">Rexus Mousepad Gaming RGB Daxa Mats Control Edition L</string>
+    <string name="nama_mousepad7">Rexus mousepad KVLAR T5</string>
+    <string name="nama_mousepad8">Logitech G240 Cloth Gaming Mouse Pad</string>
+    <string name="nama_mousepad9">Steelseries QcK Prism Cloth XL RGB Gaming Mousepad</string>
+    <string name="nama_mousepad10">Sades Rind Gaming Mousepad</string>
+
+    <string name="deskripsi_keyboard1">TECHNICAL SPECS:
+
+•	Razer™ Mechanical Switches with 50g actuation force
+•	80 million keystroke life span
+•	Individually backlit keys with Dynamic lighting effects
+•	Razer Synapse enabled
+•	10 key roll-over anti-ghosting
+•	Fully programmable keys with on-the-fly macro recording
+•	Gaming mode option
+•	Audio-out/mic-in jacks
+•	USB pass-through
+•	1000Hz Ultrapolling
+•	Braided fiber cable</string>
+    <string name="deskripsi_keyboard2">Gaming Keyboard with Razer™ Green Mechanical Switches
+
+Tactile and Clicky
+Immersive Gaming With Razer Chroma™
+Unlock Extended Controls With Razer Hypershift
+
+TECH SPECS:
+
+SWITCH TYPE: Razer™ Green Mechanical Switch
+KEY FEEL: Tactile and Clicky
+SIZES: Full Size
+LIGHTING: Razer Chroma™ customizable backlighting with 16.8 million color options
+WRIST REST: None
+ONBOARD MEMORY: Hybrid onboard storage – up to 5 profiles
+MEDIA KEYS: None
+PASSTHROUGH: None
+CONNECTIVITY: Wired - Attached
+KEYCAPS: Regular ABS
+OTHERS:
+•	80 million keystroke lifespans
+•	Cable routing options
+•	N-key roll-over with built-in anti-ghosting
+•	Fully programmable keys with on-the-fly macro recording
+•	Gaming mode option
+•	1000 Hz Ultrapolling
+•	Instant Trigger Technology</string>
+    <string name="deskripsi_keyboard3">Optical Switch memberikan kamu pengalaman responsif yang luar biasa cepat !! 0.2 ms lightspeed response time membuat pergerakan akan lebih cepat dari musuh kamu !!
+
+Style : Gaming, Ergonomics, Multimedia, Mechanical
+Type : Wired
+Interface Type : USB
+Keyboard Standard : 104 Keys
+Wrist Support : No
+Products Status : Stock
+Application : Desktop
+Brand Name : Fantech
+Model Number : MK884
+Function : Mechanical Keyboard
+Feature : Waterproof and Dustproof
+Interface : Wired USB 2.0
+Keys :104
+Cable length : 1.5m Nylon Braided Cable
+Switch : Orange Optical Switch
+Material : Aluminium + ABS</string>
+    <string name="deskripsi_keyboard4">Merk : Fantech
+Type : MK872
+Model : Mechanical Keyboard Gaming
+Switch : Black ( Silent ) dan Blue ( Clicky )
+Model Switch : Optical Switch
+Panjang Kabel : 1.8 Meter
+
+Waterproof : Yes
+Antidust : Yes
+Model Keycaps : Non Floating Keycaps
+
+Fantech MK872 RGB Mechanical Optical Switch Keyboard Gaming Menjadi salah satu andalan Product Fantech Terbaru
+Dengan Technology Macro yang bisa digunakan Untuk Game yang Digemari saat ini
+Sangat Cocok untuk Para Gamers yang memntingkan Kegunaan Keyboard dan Tampilan yang sangat nyaman untuk digunakan
+Dengan Technology Black Optical Switch menggantikan Brown Switch dengan kelebihan Black Optical Switch lebih responsif dan Sangant nyaman untuk digunakan
+Para Gamers yang sudah terbiasa dengan Switch Fantech Akan bisa lebih merasakan perbedaannya
+Sudah dilengkapi dengan Waterproof dan Anti Dust yang membuat kenyaman bertambah saat menggunakannya
+
+Compatibility : Win 7/8/10 | Mac | Linux | any usb port</string>
+    <string name="deskripsi_keyboard5">Top Material : Aircraft Grade Aluminum Alloy Frame
+N-Key Roll Over : 84-Key
+Anti-Ghosting : 100%
+Illumination : Dynamic Per Key RGB Illumination
+
+Switch
+Type dan Name : SteelSeries QX2 Mechanical RGB Switch
+Switch Actuation : 2 mm
+Total Travel : 4 mm
+Force : 45cN
+Lifetime : 50 Million Keypresses
+
+Compatibility
+OS : Windows and Mac OS X. USB port required
+Software : SteelSeries Engine 3.15+ (coming soon) for Windows (7 or newer) and Mac OS X (10.11 or newer)</string>
+    <string name="deskripsi_keyboard6">Tinggi: 218 mm
+Lebar: 452 mm
+Tebal: 33 mm
+Berat: 1.000 gr
+Jenis Koneksi: USB 2.0
+Protokol USB: USB 2.0
+Kecepatan USB: Full Speed
+Lampu Indikator (LED): Ada
+Cahaya Latar: RGB (5 Zona)
+Panjang Kabel (Daya/Pengisian): 1,8 M
+
+Persyaratan Sistem
+- Windows® 7 atau versi terbaru
+- Port USB
+- (Opsional) Koneksi Internet untuk Logitech Gaming Software1</string>
+    <string name="deskripsi_keyboard7">- Murni. Kekuatan. Mainkan.
+- Romer-G Tactile
+- Pencahayaan Tombol Presisi
+- Aluminium Alloy Kelas Pesawat Terbang
+- USB Passthrough
+- Kontrol Media di Ujung Jemarimu
+- Keycap Gaming
+- Fitur Gaming Terbaik
+- Macros yang Dapat Diprogram
+
+Persyaratan Sistem
+Windows® 10, Windows 8.1, Windows 8, Windows 7
+Port USB (untuk keyboard)
+Port USB kedua (untuk port USB passthrough)
+(Opsional) Akses internet untuk Logitech Gaming Software</string>
+    <string name="deskripsi_keyboard8">Simplicity Makes Perfect!
+
+- Desain simple dan elegan
+- Dilengkapi detachable arm-rest yang fungsional
+- Tampilan dark grey yang maskulin
+- 104 tombol mekanikal dengan full anti-ghosting
+- Magnetic Arm-rest yang Mudah Copot-pasang
+- Berat Keyboard Ideal dengan Bahan Berkualitas
+- 104 Tombol yang full Anti-ghosting
+- Switch Content Berdaya Tahan 50 juta klik!
+- 10 Mode LED
+
+SPESIFIKASI
+
+Tipe Keyboard: Keyboard mekanikal
+Jumlah Tombol: 104 tombol, dengan fitur anti-ghosting untuk semua tombol
+Jenis Tombol: Mekanikal
+Tipe Konektor: USB V 2.0
+Durabilitas tombol: 50.000.000 klik
+Kecepatan Respon: 1ms
+Keycaps: Molding dua warna
+LED: 10 mode warna
+Material: Plastik ABS dengan cover pelindung metal
+Material penyangga tangan: Plastik ABS
+Kabel: Berlapis serat nilon
+Panjang Kabel: 2m
+Berat bersih (dengan penyangga tangan): 1000±20g/unit
+Dimensi: 437 (P) x 135 (L) x 35 (T) mm
+Suhu ideal pengoperasian: -10°C to+40°C
+Tegangan dan arus operasional: 4.5V~5.5V, 10330mA
+Kompatibilitas: Windows OS (Windows 98, 2000, XP, ME, Vista, Win7, Win8, Win10) dan MAC OS</string>
+    <string name="deskripsi_keyboard9">Keunggulan teknologi keyboard mekanikal Daxa M71 Pro dibandingkan dengan tipe Classic adalah teknologi dual connection yang mengadopsi teknologi Bluetooth dan kabel sekaligus dalam satu perangkat. Keunggulan ini menjadi signature sekaligus memampukan keyboard ini digunakan di manapun karena praktis.
+
+Spesifikasi Teknis
+Dimensi: 330(P) x 102(L) x 37 ± 2mm (T)
+Jumlah Tombol: 71 Tombol
+Lampu Latar: LED
+Material: Plastik ABS
+Merk Switch : Gateron
+Kapasitas baterai : 1000mAh.
+Daya tahan baterai : 10 jam dan 35 jam dalam kondisi siaga
+Konektor: Bluetooth, Kabel USB 3.0
+Sistem operasi: Windows XP/VISTA/7/8/10, IOS, MacOS, Linux, Android</string>
+    <string name="deskripsi_keyboard10">RGB LED Light Keyboard
+
+FITUR UNGGULAN :
+- Mechaninal Switch yang dapat diganti
+- LED RGB (16,8 juta warna)
+- 12 Tombol dengan fungsi multimedia
+- 19 Mode Pencahayaan
+- Semua Tombol Anti Ghosting
+
+SPESIFIKASI:
+Jumlah Tombol: 104
+Tipe Konektor: USB V 2.0
+Durabilitas: 50jt klik
+LED: 19 Mode Pencahayaan
+Material: Plastik ABS
+Kabel: Berlapis serat nilon
+Panjang Kabel: 180cm
+Berat bersih: 880gram
+Dimensi: 446,3 (P) x 135,5 (L) x 40,3 (T) mm
+Kompatibilitas: Windows OS (Win7, Win8, Win10), iOS dan Mac</string>
+
+    <string name="deskripi_headset1">
+        Digital Surround Sound Gaming Headset
+
+7.1 Surround Sound
+Ultra-Light Comfort
+Bendable Cardioid Microphone
+
+TECH SPECS
+
+FREQUENCY RESPONSE: 20 Hz – 20 kHz
+IMPEDANCE: 32 Ω (1 kHz)
+SENSITIVITY: 106 dB (1 kHz)
+DRIVER SIZE - DIAMETERS (MM): 40 mm
+DRIVER TYPE: Custom Tuned
+EARCUPS: Oval Ear Cushions
+INNER EARCUP DIAMETER: Major Diameter 65 mm, Minor Diameter 44 mm
+EARPADS MATERIAL: Leatherette/ Foam
+NOISE CANCELLING: NA
+CONNECTION TYPE: USB Digital
+CABLE LENGTH: 2.0 m / 6.56 ft
+WEIGHT: 0.60 lbs / 275 g
+MICROPHONE STYLE: Bendable cardioid microphone
+PICK-UP PATTERN: Unidirectional ECM boom
+MICROPHONE FREQUENCY RESPONSE: 100 Hz – 10 kHz
+MICROPHONE SENSITIVITY (@1KHZ): -42 ± 3 dB
+VIRTUAL SURROUND ENCODING: NA
+VOLUME CONTROL: On-earcup: Volume Up/Down
+OTHER CONTROLS: On-earcup Mute Function: Click-to-mute. On-earcup: Volume Up/Down
+BATTERY LIFE: NA
+LIGHTING: Green-lit earcup
+COMPATIBILITY: Devices with USB Connector
+    </string>
+
+    <string name="deskripsi_headset1">
+        Digital Surround Sound Gaming Headset
+
+7.1 Surround Sound
+Ultra-Light Comfort
+Bendable Cardioid Microphone
+
+TECH SPECS
+
+FREQUENCY RESPONSE: 20 Hz – 20 kHz
+IMPEDANCE: 32 Ω (1 kHz)
+SENSITIVITY: 106 dB (1 kHz)
+DRIVER SIZE - DIAMETERS (MM): 40 mm
+DRIVER TYPE: Custom Tuned
+EARCUPS: Oval Ear Cushions
+INNER EARCUP DIAMETER: Major Diameter 65 mm, Minor Diameter 44 mm
+EARPADS MATERIAL: Leatherette/ Foam
+NOISE CANCELLING: NA
+CONNECTION TYPE: USB Digital
+CABLE LENGTH: 2.0 m / 6.56 ft
+WEIGHT: 0.60 lbs / 275 g
+MICROPHONE STYLE: Bendable cardioid microphone
+PICK-UP PATTERN: Unidirectional ECM boom
+MICROPHONE FREQUENCY RESPONSE: 100 Hz – 10 kHz
+MICROPHONE SENSITIVITY (@1KHZ): -42 ± 3 dB
+VIRTUAL SURROUND ENCODING: NA
+VOLUME CONTROL: On-earcup: Volume Up/Down
+OTHER CONTROLS: On-earcup Mute Function: Click-to-mute. On-earcup: Volume Up/Down
+BATTERY LIFE: NA
+LIGHTING: Green-lit earcup
+COMPATIBILITY: Devices with USB Connector
+    </string>
+
+    <string name="deskripsi_headset2">
+        Kitty ears and earcups powered by Razer Chroma RGB
+Bluetooth 5.0
+40ms low latency connection
+
+TECH SPECS
+
+FREQUENCY RESPONSE: 20 Hz – 20 kHz (44.1 kHz Sampling)
+IMPEDANCE: 32 Ω
+SENSITIVITY: 96 dB/mW at 1 kHz
+DRIVER SIZE - DIAMETERS (MM): 40 mm
+DRIVER TYPE: Dynamic Driver
+EARCUPS: Over-Ear (Circumaural)
+INNER EARCUP DIAMETER: Major Diameter 102 mm, Minor Diameter 88.5 mm
+EARPADS MATERIAL: Plush Leatherette with Foam
+NOISE CANCELLING: Dual Mic Noise Cancelation
+CONNECTION TYPE: Bluetooth 5.0 connection
+CABLE LENGTH: None
+WEIGHT: 0.66 lbs / 298 g
+MICROPHONE STYLE: ECM
+PICK-UP PATTERN: Omni-directional
+MICROPHONE FREQUENCY RESPONSE: 100 Hz – 10 kHz
+MICROPHONE SENSITIVITY (@1KHZ): -38 dBV/Pa (1 kHz)
+VIRTUAL SURROUND ENCODING: None
+BATTERY LIFE: Up to 20 Hours with Lighting On and Up to 50 Hours with Lighting Off
+LIGHTING: RGB LED for indicating power, pairing and charging status
+COMPATIBILITY: BT Connection: Mobile / System
+    </string>
+
+    <string name="deskripsi_headset3">
+        Seri 7.1 kembali hadir dengan gaya simple dan mewah dengan RGB kedua sisi headset serta bahan metal di kedua sisinya
+
+USB Virtual 7.1 Surround Sound with Software (download di www fantech id)
+Over ear design
+RGB Color
+50mm Driver Speaker
+Noise Cancelling
+Audio remote control
+    </string>
+
+    <string name="deskripsi_headset4">
+        MULTI-PLATFORM COMPATIBILITY
+- Main di mana saja bisa ! Hubungkan Headset VIBE MH85 3.5mm TRRS jack ke perangkat game kamu apa saja yang sudah mendukung port 3.5mm TRRS
+
+Noise Cancelling Microphone
+- Berkomunikasi bareng teman dengan Noise Cancelling akan membuat suara lebih terfokus pada kamu dan mengurangi gangguan suara sekeliling saat komunikasi
+
+Adjustable Steel Headband
+- Sesuaikan dengan ukuran kepala kamu dengan headband yang bisa di atur ketinggian.
+
+Detachable Microphone
+- Microphone yang bisa di cabut pasang memudahkan kamu saat hanya mendengarkan musik atau dalam mode gaming dengan hanya satu gerakan.
+
+Spesifikasi :
+- Driver Unit : 50mm
+- Speaker Sensitivity : 110±3dB
+- Speaker Frequency Response : 20-20kHz
+- Speaker Impedance : 32Ω±15%
+- Microphone Sensitivity : -42±3dB
+- Microphone directivity : Omni Directional
+- Micrphone Impecande : 2.2kΩ
+- Microphone Dimension : ⊄6mm
+- Plug Type : 3.5mm TRRS Jack L-Plug + USB (LAMPU MERAH)
+- Panjang Kabel : ±2.1Meter
+- Berat Headset : 333gr
+    </string>
+    <string name="deskripsi_headset5">
+        7.1 Surround RGB Gaming Headset
+
+- Best mic in gaming: the Discord-certified Clearcast bidirectional microphone
+- Hear stunning detail in all games with award-winning Arctis sound
+- Next-generation DTS Headphone:X v2.0 surround sound
+- Balance Game and Chat Audio with the USB ChatMix dial
+- Prism RGB illuminated earcups
+    </string>
+
+    <string name="deskripsi_headset6">
+        *FYI: Headset F30 bisa digunakan di HP krn sudah mendapatkan FREE Converter dari 2 jack audio 3.5mm menjadi 1 jack audio 3.5mm utk disambungkan ke HP agan menjadi single jack. Utk menyalakan LED tetap colokan USBnya hrs terpasang apabila ingin menyalakan LEDnya.
+
+Headset Rexus Vonix F30 / Headset Gaming Rexus F30 Dual Jack with USB FREE Converter
+
+Headphone
+Jenis headset: Gaming headset (Microphone + audio)
+Product model: F30
+Diameter speaker: 50mm
+Sensitivitas: 115dB
+Hambatan: 32
+Daya rata-rata: 15mW
+Rentang frekuensi: 20 – 20.000Hz
+Panjang kabel: 2,2 meter ± 0,3m
+Konektor: USB dan konektor kembar 3,5mm (dengan converter bawaan)
+
+Microphone
+Tipe microphone: Beberapa arah
+Diameter microphone: 6 x 5.0mm
+Sensitivitas microphone: 583Db
+Impedansi mikrofon: 2200Ω
+    </string>
+
+    <string name="deskripsi_headset7">
+        Give The Best for Your Ear
+
+Fitur Unggulan
+Earpad yang Nyaman dan Fungsional
+Earpad Rexus Thundervox HX20 didesain oval sehingga sangat pas saat digunakan di telinga. . Busa earpad ini juga tebal dan empuk, serta berfungsi sebagai peredam bising dari luar.
+
+Mikrofon Sensitif dan Dapat Dilepas
+Rexus Thundervox HX20 didukung dengan replaceable microphone yang sensitif dan menghasilkan suara yang detil. Mikrofon semi-condenser ini dapat dikoneksikan di HP atau perangkat perekam lain secara langsung untuk menangkap suara rekaman
+
+Teknologi Virtual Surround 7.1
+Teknologi ini sudah kerap digunakan pada gaming headset. Fungsinya adalah untuk mengubah karakteristik suara stereo menjadi surround
+
+Spesifikasi
+Dimensi: 190x230x110mm
+Daya keluaran rata-rata：100mW
+Tegangan masuk: 5V
+Diameter driver: 50mm
+Rentang frekuensi: 20 – 20.000Hz
+Sensitivitas: 108dB
+Impedansi: 32Ω
+Panjang kabel: 2,1 meter
+Tipe konektor: USB
+
+Mikrofon:
+Diameter mic: 4 x 1,5mm
+Rentang frekuensi: 50 – 10.000Hz
+Sensitivitas: -48±3dB
+    </string>
+
+    <string name="deskripsi_headset8">
+        Fitur
+- LIGHT ‘EM UP
+- Kustomisasi Lebis Lanjut Dengan Aksesori
+- Audio Yang Memukau
+- Sangat Ringan
+- Contour To Fit
+- Bermain Dengan Warna
+
+Spesifikasi Teknis
+Headphone:
+Berat: 278 g
+Driver: PRO-G 40 mm
+Respons frekuensi: 20 Hz-20 KHz
+Impedansi: 39 Ohm (pasif), 5k Ohm (aktif)
+Sensitivitas: 87,5 dB SPL/mW
+
+Mikrofon (Boom):
+Pola Pickup Mikrofon: Cardioid (Unidireksional)
+Ukuran: 6 mm
+Respons frekuensi: 100 Hz - 10 KHz
+Jangkauan Wireless: Hingga jarak 20 meter
+Jenis Koneksi: LIGHTSPEED wireless via USB
+
+Daya Tahan Baterai (dapat diisi ulang):
+Tanpa pencahayaan: 29 jam
+Pencahayaan default: 20 jam
+    </string>
+
+    <string name="deskripsi_headset9">
+        FITUR:
+- 50 MM Driver
+- Terdengar Jelas dan Jernih
+- Satu Headset, Semua Platfrom
+- Dibuat Untuk Kenyamanan dan Daya Tahan
+
+Spesifikasi Teknis
+Headphone
+Driver: 50 mm
+Respons frekuensi: 20 Hz-20 KHz
+Impedansi: 39 Ohm (pasif), 5k Ohm (aktif)
+Sensitivitas: 107 dB SPL/mW
+
+Mikrofon (Boom):
+Pola Pickup Mikrofon: Cardioid (Unidireksional)
+Ukuran: 6 mm
+Respons frekuensi: 100 Hz–20 KHz
+
+Persyaratan
+Windows® 10, Windows 8.1, Windows 7, Mac®, Nintendo Switch™, PS4, Xbox One, tablet, atau perangkat mobile
+Port USB untuk PC atau port audio 3,5 mm untuk konsol/mobile
+    </string>
+
+    <string name="deskripsi_headset10">
+        Fitur
+- DTS HEADPHONE:X 7.1 Surround Sound Positional Audio
+- DRIVER AUDIO PRO-G TERBARU
+- Ringan, Sangat Kuat
+- Voice Chat Bersertifikat
+- Kompatibel dengan Multi-Platform
+- Dapat Dilepaskan, Dapat Diubah
+
+SPESIFIKASI
+Spesifikasi Fisik
+- Panjang: 172 mm
+- Lebar: 81,7 mm
+- Tinggi: 182 mm
+- Berat (tanpa kabel): 259 g
+- DAC USB: 160 mm
+- Panjang Kabel PC: 2 m
+- Panjang Kabel Mobile: 1,5 m
+
+Headphone
+- Driver: 40 mm
+- Respons frekuensi: 20 Hz - 20 KHZ
+- Impedansi: 32 Ohm
+- Sensitivitas: 107 dB@1 kHz SPL 30 mW/1 cm
+- Panjang kabel: 2m
+
+Matriks Kompatibilitas
+- PC, PC VR ｜ 7.1 Surround4Virtual \, via USB Stereo via 3,5 mm
+- PS4 ｜Stereo via 3,5 mm
+- Xbox® One ｜Stereo via 3,5 mm
+- Nintendo® Switch™ ｜Stereo via 3,5 mm
+- Apple® ｜ Stereo via 3,5 mm
+- Mobile | Stereo via 3,5 mm
+
+Mikrofon
+- Pola Pickup Mikrofon: Cardioid (Unidirectional)
+- Jenis: Back Electret Condenser
+- Ukuran: 4 mm
+- Respons frekuensi: 100 Hz - 10 KHZ
+    </string>
+
+    <string name="deskripsi_mouse1">
+        equipped with 2.4GHz wireless connector
+and 10M wireless distance to ensure the stable connection of your mouse.
+Using sensor from the world most leading gaming sensor manufacturer.
+With its 10g acceleration and tracking speed up to 30ips.
+Providing the best tracking, sensitivity and accuracy ever.
+
+Spesification :
+- Precision Pixart Optical sensor
+- Gaming optimized 2.4GHz wireless 2.0
+- Up to 2000DPI sensitivity
+- 125HZ polling rate
+- Powered by 1 AA batteries
+- Voltage 2.1 V - 3.6 V
+- On-The-Fly DPI adjustment
+- Silicon Rubber Roller
+- Size: 114mm x 70mm x 38mm
+
+
+    </string>
+
+    <string name="deskripsi_mouse2">
+        Ergonomic FPS Gaming Mouse
+
+True 16,000 DPI 5g Optical Sensor
+Customizable Scroll Wheel Resistance
+Removable DPI Clutch
+
+TECH SPECS:
+
+FORM FACTOR: Right-Handed
+CONNECTIVITY: Wired - Standard Braided Cable
+BATTERY LIFE: -
+RGB LIGHTING: Razer Chroma™ RGB
+SENSOR: Optical
+MAX SENSITIVITY (DPI): 16000
+MAX SPEED (IPS): 450
+MAX ACCELERATION (G): 50
+PROGRAMMABLE BUTTONS: 8
+SWITCH TYPE: Mechanical
+SWITCH LIFECYCLE: 50 Million Clicks
+ON-BOARD MEMORY PROFILES: 5
+MOUSE FEET: Standard Stock Feet
+CABLE: Standard Braided Cable
+TILT SCROLL WHEEL: No
+SIZES: 124 mm / 4.88 in (Length) X 60 mm / 2.36 in (Grip Width) X 43 mm / 1.69 in (Height)
+WEIGHT: 107 g / 0.24 lbs
+    </string>
+
+    <string name="deskripsi_mouse3">
+        Razer™ Hyperspeed Wireless technology
+11 Programmable Buttons
+14 Customizable Razer Chroma™ Lighting Zones
+
+TECH SPECS:
+
+FORM FACTOR: Right-Handed
+CONNECTIVITY: Razer™ HyperSpeed Wireless Wired - Speedflex Cable
+BATTERY LIFE: Up to 100 Hours
+RGB LIGHTING: Razer Chroma™ RGB 14 Razer Chroma™ RGB Lighting Zones
+SENSOR: Optical
+MAX SENSITIVITY (DPI): 20000
+MAX SPEED (IPS): 650
+MAX ACCELERATION (G): 50
+PROGRAMMABLE BUTTONS: 11
+SWITCH TYPE: Optical
+SWITCH LIFECYCLE: 70 Million Clicks
+ON-BOARD MEMORY PROFILES: 5
+MOUSE FEET: 100% PTFE Mouse Feet
+CABLE: Razer™ Speedflex Cable
+TILT SCROLL WHEEL: Yes
+SIZES: 130mm / 5.11 in (Length) x 60mm / 2.36 in (Grip Width) x 42mm / 1.65 in (Height)
+WEIGHT: 107 g / 0.24 lbs
+DOCK COMPATIBILITY: Yes
+    </string>
+
+    <string name="deskripsi_mouse4">
+        Seri terbaru dari Mouse Gaming Fantech di VX series yang mengusung desain ambidextrous dengan berat mouse di level Middle 84gr aja.
+
+Juga terdapat 6 tombol macro yang bisa di program
+
+TONTON VIDEO UNBOXING NYA
+
+Spesifikasi :
+- Gaming Optical Sensor
+- DPI 200 - 8000
+- 60 IPS Speed
+- 20g Acceleration
+- Polling Rate 125hz
+- 1.8m nylon braided cable
+- Silicon Rubber Roller
+- RGB 4 Color
+- Size : 128mm x 68mm x 41mm
+- Berat : 84gr
+
+Rekomendasi GRIP :
+
+ukuran tangan 18cm atau dibawah : PALM GRIP
+ukuran tangan 18cm keatas : PALM dan CLAW GRIP
+    </string>
+
+    <string name="deskripsi_mouse5">
+        Sensor SteelSeries TrueMove Core
+Sensor Type Optical
+CPI 1008,500 in 100 CPI Increments
+IPS 300, on SteelSeries QcK surfaces
+Acceleration 35G
+Polling Rate 1000Hz 1 ms
+Hardware Acceleration None (Zero Hardware Acceleration)
+Design
+
+Back Cover Material Black Matte Finish
+Core Construction ABS Plastic
+Shape Ergonomic, Right-Handed
+Grip Style Claw or Fingertip
+Number of Buttons 6
+Switch Type SteelSeries mechanical switches, rated for 60 million clicks
+Illumination 3 RGB Zones, Independently Controlled
+Weight 77g (2.7oz) without cable
+Length 120.60mm / 4.75 inches
+Width 58.30mm / 2.30 inches (front), 67.00mm / 2.64 inches (back)
+Height 21.50mm / 0.85 inches (front), 37.90mm / 1.49 inches (back)
+Rubber Cable Length 1.8m / 6 feet
+Compatibility
+
+OS Windows, Mac, Xbox, and Linux. USB port required.
+Software SteelSeries Engine 3.15.1+, for Windows (7 or newer) and Mac OSX (10.12 or newer)
+    </string>
+
+    <string name="deskripsi_mouse6">
+
+Spesifikasi
+Tipe konektor: USB versi 2.0
+Tombol: Huano 10M Lifespan
+Panjang kabel: 1,75 meter
+Jumlah tombol: 7 tombol
+Level DPI: 200 – 4800 (dengan software untuk meningkatkan)
+Berat: 110 gram (± 20 gram)
+Dimensi: 129 x 72 x 43 mm
+Sistem operasi: Win 7/Win 8/Win10/ Windows Viesta/ Windows XP
+    </string>
+
+    <string name="deskripsi_mouse7">
+- Desain yang mendukung kecepatan dan kenyamanan pergerakan saat bermain game.
+- Akselerasi hingga 50G
+- Profil mouse yang cocok untuk game yang membutuhkan tingkat akurasi yang tinggi.
+- Mousefeet teflon yang lebih lebar akan menjamin kelancaran dan kenyamanan pergerakan mouse.
+
+Spesifikasi Teknis
+
+Tipe Sensor : Pixart PMW3389
+Polling Rate : 125-500-1000Hz
+Tombol : Omron 20M (OF)
+Kabel : Paracord 1,8 meter
+Level DPI : 400-16000DPI
+Kecepatan : 400 inch per second (IPS)
+Akselerasi : 50G
+Dimensi : 120 x 63.5 x 39mm
+Berat : 58 (Dapat disesuaikan hingga 82 gram dengan pemberat)
+    </string>
+
+    <string name="deskripsi_mouse8">
+        Fitur :
+- Dilengkapi dengan Sensor HERO 25K
+- LIGHTSYNC RGB
+- Sangat Nyaman dan Berkualitas Tinggi
+- G HUB
+- KINERJA GAMING TERBAIK
+
+PENELUSURAN
+Sensor: HERO 25K
+Penyelesaian masalah: 100 - 25.000 DPI
+Akselerasi maks.: diuji pada lebih dari 40 G
+Kecepatan maks.: diuji pada lebih dari 400 IPS
+
+Spesifikasi Fisik
+Tinggi: 124 mm
+Lebar: 68 mm
+Tebal: 43 mm
+Berat: 87,3 g, hanya mouse
+Pemberat ekstra opsional: 10 g
+Panjang Kabel: 2,1 m
+
+KETANGGAPAN
+Format data USB: 16 bit/axis
+Report rate USB: 1.000 Hz (1 md)
+Mikroprosesor: 32-bit ARM
+
+Fitur lain
+Pencahayaan LIGHTSYNC RGB
+Pegarangan samping karet dual-injected
+6 tombol yang dapat diprogram
+Sistem pengencangan tombol mekanik
+
+    </string>
+
+    <string name="deskripsi_mouse9">
+        Fitur:
+- LIGHTSYNC RGB COLOR WAVE
+- SENSOR KELAS GAMING
+- DESAIN SEJATI YANG SUDAH TERUJI
+- PENGENCANGAN TOMBOL YANG DIOPTIMALKAN
+- SOFTWARE GAMING LOGITECH G HUB GAMING
+
+Persyaratan
+Windows® 7 atau versi terbaru
+macOS 10.10 atau versi terbaru
+Chrome OSTM
+Port USB
+
+Spesifikasi Teknis
+Pencahayaan RGB LIGHTSYNC
+6 tombol yang dapat diprogram
+Resolusi: 200 – 8.000 DPI
+
+Spesifikasi Fisik
+Tinggi: 116,6 mm
+Lebar: 62,15 mm
+Tebal: 38,2 mm
+Berat: 85 g (hanya mouse)
+Panjang Kabel: 2,1 m
+
+Ketanggapan
+Format data USB: 16 bit/axis
+Report rate USB: 1.000 Hz (1 md)
+Mikroprosesor: 32-bit ARM
+    </string>
+
+    <string name="deskripsi_mouse10">
+        Specifications:
+- 9 PROGRAMMABLE CONTROLS
+- ONBOARD MEMORY PROFILES
+- EASY-TO-USE CONFIGURATION SOFTWARE
+
+TECHNICAL SPECIFICATIONS
+Tracking
+Resolution: 250 2,500 dpi
+Max. acceleration: >20G*
+Max Speed: 60 ips (1.5m/s)*
+
+* Tested on Logitech G240 Gaming Mouse Pad
+Responsiveness
+USB data format: 16 bits/axis
+USB report rate: 1000 Hz (1ms)
+Glide
+Dynamic coefficient of friction:* 0.09 (k)
+Static coefficient of friction:* 0.14 (s)
+
+*Tested on wood-veneer desktop.
+Durability
+Buttons (Left / Right): 20 million clicks
+Feet: 250 kilometers
+Physical specifications
+Height: 4.45 in (113 mm)
+Width: 2.83 in (72 mm)
+Depth: 1.57 in (40 mm)
+Weight: 3.84 oz, mouse plus cable (109 g)
+Weight: 2.82 oz, mouse only (80 g)
+    </string>
+
+    <string name="deskripsi_mousepad1">
+        Soft Gaming Mouse Mat Powered by Razer Chroma
+
+Powered by Razer Chroma™
+Enhances All Gaming Mice
+Micro-Textured Cloth Surface
+
+TECH SPECS:
+
+SIZES: Medium
+THICKNESS: 0.11" / 3 mm
+SURFACE: Soft
+CHROMA RGB: Yes
+    </string>
+
+    <string name="deskripsi_mousepad2">
+        Razer Chroma™ customizable RGB lighting
+Micro-textured surface
+Built-in cable catch
+All-round edge lighting
+Optimized surface coating
+
+Full Specs
+Powered by Razer Chroma™ customizable RGB lighting
+Micro-textured finish for highly responsive tracking
+Cable catch
+19 lighting zones
+Optimized surface coating for balanced gameplay
+Ultra-thin form factor with non-slip rubber base
+Razer Synapse enabled
+Braided USB cable
+Dimensions: 355mm x 255mm x 3mm
+    </string>
+
+    <string name="deskripsi_mousepad3">
+        Product Details
+
+- Anti- slip Rubber Base
+- Material Rubber
+- Mouse Size 640X210 MM
+- Materials FABRIC + RUBBER BASE
+- Style: rubber,non-slip
+    </string>
+
+    <string name="deskripsi_mousepad4">
+        Permukaan Licin
+Permukaan anti air yang halus licin memberikan pergerakan yang cepat dan ketahanan anti noda cairan.
+
+Dasar Tinggi Anti Selip
+Ketebalan 2mm yang dioptimisasi untuk dukungan bantalan yang nyaman.
+Dasar karet dengan struktur gelombang anti selip.
+Bahan karet asli, tidak beracun dan alami.
+
+Jahit Pinggir
+Pinggiran yang dijahit untuk ketahanan lebih.
+
+Seri Sven
+Mousepad seri SVEN dari Fantech tersedia dalam berbagai ukuran untuk memenuhi kebutuhan.
+
+SIZE 25X21
+
+Surface TIpe : SPEED (LICIN)
+    </string>
+
+    <string name="deskripsi_mousepad5">
+        Composed of high quality cloth and a rubber base,
+the QcK is the ideal mouse pad for every gamer preferring cloth surfaces.
+320x270x2mm
+    </string>
+
+    <string name="deskripsi_mousepad6">
+        - Bahan Cordura yang punya durabilitas tinggi
+- LED fleksibel dengan 10 mode warna, dengan pengaturan mudah
+- Bahan karet anti-slip sebagai alas dengan ketebalan optimal
+- Desain yang clean dan stylish
+
+Spesifikasi
+Permukaan: Kain Cordura
+Dasar: Karet anti-slip
+LED: RGB (10 mode pencahayaan)
+    </string>
+
+    <string name="deskripsi_mousepad7">
+        Smooth dan Precise Tracking Gaming Mousepad
+Tampilkan permainan terbaikmu dengan menggunakan Mousepad Rexus KVLAR T5. Mousepad yang diproduksi dengan teknologi mutakhir ini akan mengakomodasi setiap pergerakan mouse secara halus dan lancar sehingga mendongkrak performa dan kenyamanan.
+
+High Durability Components
+Bahan Rexus KVLAR T5 berkualitas tinggi sehingga fleksibel, kuat, awet, dan tak mudah sobek. Bahan tersebut disatukan dengan proses pres lem yang kuat agar menyatu dan tidak mudah mengelupas.
+Ukuran: 640 x 210 milimeter
+    </string>
+
+    <string name="deskripsi_mousepad8">
+        Fitur:
+- Friksi Permukaan Moderat
+- Tekstur Permukaan yang Konsisten
+- Cocok dengan Sensor Logitech G
+- Alas Karet yang Stabil
+- Bahan Kain yang Nyaman
+- Roll and Go
+
+Spesifikasi Fisik
+Tinggi: 280 mm
+Lebar: 340 mm
+Tebal: 1 mm
+Berat: 90 gr, kurang lebih
+    </string>
+
+    <string name="deskripsi_mousepad9">
+        Features :
+- Brilliant 2-zone RGB dynamic illumination
+- Easy and intuitive setup of in-game lighting notifications
+- QcK micro-woven cloth for maximum control
+- Optimized for low and high DPI tracking movements
+- 900 mm x 300 mm x 4 mm
+    </string>
+
+    <string name="deskripsi_mousepad10">
+        FITUR:
+PRESISI
+Dengan permukaan tekstil yang kasar, Rind dioptimalkan untuk mouse gaming optik dan laser, meningkatkan kelenturan dan akurasi pelacakan.
+TAHAN UNTUK DIGUNAKAN
+Bantalan 3 mm dan tepi eksklusif yang dijahit datar digunakan pada Rind, membuatnya nyaman dan tahan lama untuk digunakan.
+DESAIN NON-SLIP
+Rind memiliki basis karet alam non-slip, sehingga akan tetap aman di tempatnya bahkan selama permainan yang intens.
+
+SPECIFICATION:
+Weight(Mouse pad only): 420 g
+Weight (Mouse pad dan Package): 660 g/1.46 lb
+
+SIZE
+Length: 440mm
+Width: 340mm
+Thickness: 3.00mm/0.12in
+DURABILITY:
+Mouse Glide Distance: 250km
+    </string>
+</resources>

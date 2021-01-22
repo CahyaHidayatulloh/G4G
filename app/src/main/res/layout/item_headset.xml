@@ -1,0 +1,38 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/back_item"
+    android:padding="12dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageHeadset"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginEnd="16dp"
+        android:layout_centerVertical="true"
+        tools:src="@android:color/darker_gray" />
+    <TextView
+        android:id="@+id/tv_headset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_toEndOf="@+id/imageHeadset"
+        android:text="@string/judul"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tv_des_headset"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/tv_headset"
+        android:layout_alignStart="@+id/tv_headset"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:lineSpacingExtra="8dp"
+        android:text="@string/deskripsi" />
+
+</RelativeLayout>
